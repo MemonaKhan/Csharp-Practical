@@ -1,0 +1,15 @@
+c:\users\probook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\bin\Debug\CsharpPracticals.exe
+c:\users\probook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\bin\Debug\CsharpPracticals.pdb
+c:\users\probook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Properties.Resources.resources
+c:\users\probook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.csproj.GenerateResource.Cache
+c:\users\probook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.exe
+c:\users\probook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.pdb
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Form1.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.csprojResolveAssemblyReference.cache
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Form2.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Form3.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Form4.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Form5.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Form6.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Form7.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\CsharpPracticals\CsharpPracticals\obj\x86\Debug\CsharpPracticals.Form8.resources
